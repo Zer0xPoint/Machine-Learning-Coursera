@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e172f423-2524-4fa4-8b57-32bfc38937f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Sequence Models.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/.ipynb_checkpoints/Building_a_Recurrent_Neural_Network_Step_by_Step-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/generateTestCases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/images/LSTM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/images/LSTM_cell_backward_rev3a_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/images/LSTM_cell_backward_rev3a_c2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/images/LSTM_figure4_v3a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/images/LSTM_rnn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/images/RNN.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/images/initial_state.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/images/old_rnn_cell_backward_3a_c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/images/rnn_backward_overview_3a_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/images/rnn_cell_backprop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/images/rnn_cell_backward_3a_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/images/rnn_cell_backward_3a_c.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/images/rnn_forward_sequence_figure3_v3a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/images/rnn_step_forward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/images/rnn_step_forward_figure2_v3a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/public_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/rnn_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/test_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A1/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A2/.ipynb_checkpoints/Dinosaurus_Island_Character_level_language_model-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A2/Dinosaurus_Island_Character_level_language_model.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A2/dinos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A2/generateTestCases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A2/images/clip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A2/images/dino.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A2/images/dinos3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A2/images/mangosaurus.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A2/images/rnn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A2/images/shakespeare.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A2/models/model_shakespeare_kiank.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A2/models/model_shakespeare_kiank_350_epoch.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A2/shakespeare.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A2/shakespeare_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A2/test_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/W1A2/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2iE5mA6HzZd3hbM7ws8jlWKF7HW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Sequence Models" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17890.14" />
+        <option value="bundled-python-sdk-5b207ade9991-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e172f423-2524-4fa4-8b57-32bfc38937f9" name="Changes" comment="" />
+      <created>1719043051717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719043051717</updated>
+      <workItem from="1719043053045" duration="1835000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/lee/Documents/Coding/PyCharmProjects/Sequence Models/W1A1/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb</url>
+          <line>88</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

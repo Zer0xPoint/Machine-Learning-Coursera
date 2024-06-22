@@ -4,55 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e172f423-2524-4fa4-8b57-32bfc38937f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Sequence Models.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/.ipynb_checkpoints/Building_a_Recurrent_Neural_Network_Step_by_Step-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/generateTestCases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/images/LSTM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/images/LSTM_cell_backward_rev3a_5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/images/LSTM_cell_backward_rev3a_c2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/images/LSTM_figure4_v3a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/images/LSTM_rnn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/images/RNN.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/images/initial_state.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/images/old_rnn_cell_backward_3a_c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/images/rnn_backward_overview_3a_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/images/rnn_cell_backprop.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/images/rnn_cell_backward_3a_4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/images/rnn_cell_backward_3a_c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/images/rnn_forward_sequence_figure3_v3a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/images/rnn_step_forward.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/images/rnn_step_forward_figure2_v3a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/public_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/rnn_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/test_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A1/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A2/.ipynb_checkpoints/Dinosaurus_Island_Character_level_language_model-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A2/Dinosaurus_Island_Character_level_language_model.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A2/dinos.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A2/generateTestCases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A2/images/clip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A2/images/dino.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A2/images/dinos3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A2/images/mangosaurus.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A2/images/rnn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A2/images/shakespeare.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A2/models/model_shakespeare_kiank.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A2/models/model_shakespeare_kiank_350_epoch.h5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A2/shakespeare.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A2/shakespeare_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A2/test_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/W1A2/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sample.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="e172f423-2524-4fa4-8b57-32bfc38937f9" name="Changes" comment="init commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,9 +13,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Zer0xPoint/Machine-Learning-Coursera.git",
+    "accountId": "9615a895-dc84-40e7-95ad-c5fd0e922036"
+  }
 }]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2iE5mA6HzZd3hbM7ws8jlWKF7HW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -72,20 +30,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Sequence Models" />
@@ -128,14 +86,37 @@
       <option name="presentableId" value="Default" />
       <updated>1719043051717</updated>
       <workItem from="1719043053045" duration="1835000" />
+      <workItem from="1719046690640" duration="780000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1719046770819</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719046770819</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
